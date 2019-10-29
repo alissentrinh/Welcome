@@ -1,11 +1,5 @@
-# my-catfish
 # Alissen Trinh
-# General collection of all projects/programs I have done throughout my years in college
-# Currently: 2nd year at University of California - Irvine
-# Purpose: To store and showcase what I have done for internship opportunities and personal recollection
-
-
-# Includes:
-# ICS 31-32-33 series of projects
-# Any small projects I have worked on 
-# Etc
+ 
+ I am currently a 2nd year Computer Science major at University of California - Irvine. At the moment, I only have my academic projects saved in multiple repositories, however I have set them on private to prevent cheating.
+ 
+ This account serves to save and view my coding projects while providing a way for employers to view my experience.
